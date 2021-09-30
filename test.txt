@@ -2,8 +2,8 @@ a= 10 ;
 b = 20; 
 
 
-public void add () {
+public void multiply () {
   
-  c = a + b ; 
+  c = a * b ; 
 pritnln(c);
 }
