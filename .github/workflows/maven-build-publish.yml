@@ -1,4 +1,4 @@
-name: maven build publish
+name: maven build publish s
 
 on: [push]
 
